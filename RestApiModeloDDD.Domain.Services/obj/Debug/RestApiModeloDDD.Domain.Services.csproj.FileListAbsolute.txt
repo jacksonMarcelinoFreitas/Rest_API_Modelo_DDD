@@ -1,0 +1,11 @@
+C:\Users\j0039451\OneDrive - EMS S A\web_forms_project\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\RestApiModeloDDD.Domain.Services.dll
+C:\Users\j0039451\OneDrive - EMS S A\web_forms_project\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\RestApiModeloDDD.Domain.Services.pdb
+C:\Users\j0039451\OneDrive - EMS S A\web_forms_project\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\RestApiModeloDDD.Domain.Services.csproj.AssemblyReference.cache
+C:\Users\j0039451\OneDrive - EMS S A\web_forms_project\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\RestApiModeloDDD.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\j0039451\OneDrive - EMS S A\web_forms_project\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\RestApiModeloDDD.Domain.Services.dll
+C:\Users\j0039451\OneDrive - EMS S A\web_forms_project\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\RestApiModeloDDD.Domain.Services.pdb
+C:\Users\j0039451\OneDrive - EMS S A\web_forms_project\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\RestApiModeloDDD.Domain.Core.dll
+C:\Users\j0039451\OneDrive - EMS S A\web_forms_project\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\RestApiModeloDDD.Domain.dll
+C:\Users\j0039451\OneDrive - EMS S A\web_forms_project\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\RestApiModeloDDD.Domain.Core.pdb
+C:\Users\j0039451\OneDrive - EMS S A\web_forms_project\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\RestApiModeloDDD.Domain.pdb
+C:\Users\j0039451\OneDrive - EMS S A\web_forms_project\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\RestApiModeloDDD.Domain.Services.csproj.CopyComplete

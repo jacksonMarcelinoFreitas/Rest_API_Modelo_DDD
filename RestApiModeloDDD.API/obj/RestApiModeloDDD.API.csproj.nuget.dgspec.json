@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.API\\RestApiModeloDDD.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.API\\RestApiModeloDDD.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.API\\RestApiModeloDDD.API.csproj",
+        "projectName": "RestApiModeloDDD.API",
+        "projectPath": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.API\\RestApiModeloDDD.API.csproj",
+        "packagesPath": "C:\\Users\\j0039451\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\j0039451\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.30, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.30, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
