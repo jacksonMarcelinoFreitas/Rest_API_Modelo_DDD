@@ -1,7 +1,9 @@
-﻿using System;
-using System.Linq;
+﻿using Microsoft.EntityFrameworkCore;
 using RestApiModeloDDD.Domain.Entitys;
-using System.Data.Entity;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Runtime.Remoting.Contexts;
 
 namespace RestApiModeloDDD.Infrastructure.Data
 {
@@ -11,9 +13,9 @@ namespace RestApiModeloDDD.Infrastructure.Data
         {
         }
 
-        /*public SqlContext(DbContextOptions<SqlContext> options) : base(options)
+        public SqlContext(DbContextOptions<SqlContext> options) : base(options)
         {
-        }*/
+        }
 
         public DbSet<Cliente> Clientes { get; set; }
         public DbSet<Produto> Produtos { get; set; }

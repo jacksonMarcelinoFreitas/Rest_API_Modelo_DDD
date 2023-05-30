@@ -2,7 +2,7 @@
 
 namespace RestApiModeloDDD.Infrastructure.CrossCutting.IOC
 {
-    public class ModuleIOC : Module
+    public class ModuleIOC : Module  //Module
     {
         protected override void Load(ContainerBuilder builder)
         {

@@ -27,7 +27,14 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Application\\RestApiModeloDDD.Application.csproj": {
+                "projectPath": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Application\\RestApiModeloDDD.Application.csproj"
+              },
+              "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Infrastructure\\RestApiModeloDDD.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Infrastructure\\RestApiModeloDDD.Infrastructure.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -55,6 +62,14 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.30, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[6.5.0, )"
             }
           },
           "imports": [
@@ -78,6 +93,115 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Application\\RestApiModeloDDD.Application.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Application\\RestApiModeloDDD.Application.csproj",
+        "projectName": "RestApiModeloDDD.Application",
+        "projectPath": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Application\\RestApiModeloDDD.Application.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj"
+              },
+              "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Services\\RestApiModeloDDD.Domain.Services.csproj": {
+                "projectPath": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Services\\RestApiModeloDDD.Domain.Services.csproj"
+              },
+              "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj": {
+                "projectPath": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj",
+        "projectName": "RestApiModeloDDD.Domain.Core",
+        "projectPath": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj": {
+                "projectPath": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Services\\RestApiModeloDDD.Domain.Services.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Services\\RestApiModeloDDD.Domain.Services.csproj",
+        "projectName": "RestApiModeloDDD.Domain.Services",
+        "projectPath": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Services\\RestApiModeloDDD.Domain.Services.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj"
+              },
+              "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj": {
+                "projectPath": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj",
+        "projectName": "RestApiModeloDDD.Domain",
+        "projectPath": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Infrastructure\\RestApiModeloDDD.Infrastructure.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Infrastructure\\RestApiModeloDDD.Infrastructure.csproj",
+        "projectName": "RestApiModeloDDD.Infrastructure",
+        "projectPath": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Infrastructure\\RestApiModeloDDD.Infrastructure.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Application\\RestApiModeloDDD.Application.csproj": {
+                "projectPath": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Application\\RestApiModeloDDD.Application.csproj"
+              },
+              "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Core\\RestApiModeloDDD.Domain.Core.csproj"
+              },
+              "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Services\\RestApiModeloDDD.Domain.Services.csproj": {
+                "projectPath": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain.Services\\RestApiModeloDDD.Domain.Services.csproj"
+              },
+              "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj": {
+                "projectPath": "C:\\Users\\j0039451\\OneDrive - EMS S A\\web_forms_project\\RestApiModeloDDD\\RestApiModeloDDD.Domain\\RestApiModeloDDD.Domain.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }
